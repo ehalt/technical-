@@ -1,0 +1,2 @@
+# technical-
+notes and stuffs 
