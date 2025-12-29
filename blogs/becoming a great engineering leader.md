@@ -259,19 +259,3 @@ The list has been continuously curated over 5+ years.
 - **Merch**: [Engineering Leadership Store](https://store.eng-leadership.com/)
 - **Work With Me**: [Consulting & collaboration options](https://newsletter.eng-leadership.com/)
 
----
-
-## Get in Touch
-
-- **LinkedIn**: [Gregor Ojstersek](https://www.linkedin.com/in/gregorojstersek/)
-- **X (Twitter)**: [@gregorojstersek](https://twitter.com/gregorojstersek)
-- **YouTube**: [Gregor Ojstersek](https://www.youtube.com/@gregorojstersek)
-- **Bluesky**: [@gregorojstersek](https://bsky.app/profile/gregorojstersek.bsky.social)
-- **Instagram**: [@gregorojstersek](https://www.instagram.com/gregorojstersek/)
-- **Threads**: [@gregorojstersek](https://www.threads.net/@gregorojstersek)
-- **Email**: info@gregorojstersek.com
-
----
-
-> This newsletter is funded by paid subscriptions.  
-> Consider becoming a [paid subscriber](https://newsletter.eng-leadership.com/subscribe) for full access.
